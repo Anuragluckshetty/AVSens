@@ -1,0 +1,100 @@
+# Model files
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tflite
+*.pb
+*.weights
+*.caffemodel
+*.h5
+*.keras
+
+# Training outputs
+runs/
+weights/
+checkpoints/
+models/
+outputs/
+
+# Dataset images (keep labels)
+train/images/
+valid/images/
+test/images/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tiff
+*.webp
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+
+# Large result files
+test_results/
+visualizations/
+predictions/
+*.json
+detection_results.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Logs
+*.log
+wandb/
+logs/
+
+# Large CSV files
+results.csv
+metrics.csv
+
+# Compressed files
+*.zip
+*.tar.gz
+*.rar
+*.7z

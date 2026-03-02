@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['car', 'pedestrains-and-cars', 'person']
+
+roboflow:
+  workspace: anurags-workspace-yjse9
+  project: yolo-0ambh
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/anurags-workspace-yjse9/yolo-0ambh/dataset/1
