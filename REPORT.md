@@ -1,8 +1,5 @@
 # YOLOv8 Pedestrian and Car Detection
-## Computer Vision Internship Assignment Report
-
-**Author**: Internship Candidate  
-**Date**: March 02, 2026  
+ 
 **Project**: Pedestrian and Car Detection for Autonomous Vehicles  
 **Framework**: YOLOv8 (Ultralytics PyTorch Implementation)
 
